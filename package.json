@@ -1,0 +1,31 @@
+{
+  "name": "curse-wow",
+  "version": "0.0.1",
+  "description": "curse wow addons",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run clean && webpack --config webpack.config.js -p",
+    "clean": "rimraf lib"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.9.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "rimraf": "^2.6.2",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "webpack": "^4.27.1"
+  },
+  "author": "2kpurple",
+  "license": "ISC"
+}
