@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm run clean && webpack --config webpack.config.js -p",
-    "clean": "rimraf lib"
+    "clean": "rimraf dist"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

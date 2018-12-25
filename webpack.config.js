@@ -11,10 +11,10 @@ module.exports = {
   },
   externals: [nodeExternals()],
   entry: {
-    cli: path.join(__dirname, 'src', 'cli.js')
+    index: path.join(__dirname, 'src', 'index.js')
   },
   output: {
-    path: path.join(__dirname, 'lib'),
+    path: path.join(__dirname, 'dist'),
     filename: '[name].js'
   },
   module: {
