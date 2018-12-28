@@ -6,3 +6,5 @@ curse.page(0).then((res) => {
 }).catch((err) => {
   console.log(err)
 })
+
+Curse._buildCategory()

@@ -1,0 +1,278 @@
+{
+  "Achievements": {
+    "name": "Achievements",
+    "url": "/wow/addons/achievements"
+  },
+  "Action Bars": {
+    "name": "Action Bars",
+    "url": "/wow/addons/action-bars"
+  },
+  "Artwork": {
+    "name": "Artwork",
+    "url": "/wow/addons/artwork"
+  },
+  "Auction & Economy": {
+    "name": "Auction & Economy",
+    "url": "/wow/addons/auction-economy"
+  },
+  "Audio & Video": {
+    "name": "Audio & Video",
+    "url": "/wow/addons/audio-video"
+  },
+  "Bags & Inventory": {
+    "name": "Bags & Inventory",
+    "url": "/wow/addons/bags-inventory"
+  },
+  "Boss Encounters": {
+    "name": "Boss Encounters",
+    "url": "/wow/addons/boss-encounters"
+  },
+  "Buffs & Debuffs": {
+    "name": "Buffs & Debuffs",
+    "url": "/wow/addons/buffs-debuffs"
+  },
+  "Chat & Communication": {
+    "name": "Chat & Communication",
+    "url": "/wow/addons/chat-communication"
+  },
+  "Class": {
+    "name": "Class",
+    "url": "/wow/addons/class"
+  },
+  "Death Knight": {
+    "name": "Death Knight",
+    "url": "/wow/addons/class/death-knight"
+  },
+  "Demon Hunters": {
+    "name": "Demon Hunters",
+    "url": "/wow/addons/class/demon-hunters"
+  },
+  "Druid": {
+    "name": "Druid",
+    "url": "/wow/addons/class/druid"
+  },
+  "Hunter": {
+    "name": "Hunter",
+    "url": "/wow/addons/class/hunter"
+  },
+  "Mage": {
+    "name": "Mage",
+    "url": "/wow/addons/class/mage"
+  },
+  "Monk": {
+    "name": "Monk",
+    "url": "/wow/addons/class/monk"
+  },
+  "Paladin": {
+    "name": "Paladin",
+    "url": "/wow/addons/class/paladin"
+  },
+  "Priest": {
+    "name": "Priest",
+    "url": "/wow/addons/class/priest"
+  },
+  "Rogue": {
+    "name": "Rogue",
+    "url": "/wow/addons/class/rogue"
+  },
+  "Shaman": {
+    "name": "Shaman",
+    "url": "/wow/addons/class/shaman"
+  },
+  "Warlock": {
+    "name": "Warlock",
+    "url": "/wow/addons/class/warlock"
+  },
+  "Warrior": {
+    "name": "Warrior",
+    "url": "/wow/addons/class/warrior"
+  },
+  "Combat": {
+    "name": "Combat",
+    "url": "/wow/addons/combat"
+  },
+  "Caster": {
+    "name": "Caster",
+    "url": "/wow/addons/combat/caster"
+  },
+  "Damage Dealer": {
+    "name": "Damage Dealer",
+    "url": "/wow/addons/combat/damage-dealer"
+  },
+  "Healer": {
+    "name": "Healer",
+    "url": "/wow/addons/combat/healer"
+  },
+  "Tank": {
+    "name": "Tank",
+    "url": "/wow/addons/combat/tank"
+  },
+  "Companions": {
+    "name": "Companions",
+    "url": "/wow/addons/companions"
+  },
+  "Battle Pets": {
+    "name": "Battle Pets",
+    "url": "/wow/addons/companions/battle-pets"
+  },
+  "Data Export": {
+    "name": "Data Export",
+    "url": "/wow/addons/data-export"
+  },
+  "Development Tools": {
+    "name": "Development Tools",
+    "url": "/wow/addons/development-tools"
+  },
+  "Garrison": {
+    "name": "Garrison",
+    "url": "/wow/addons/garrison"
+  },
+  "Guild": {
+    "name": "Guild",
+    "url": "/wow/addons/guild"
+  },
+  "Libraries": {
+    "name": "Libraries",
+    "url": "/wow/addons/libraries"
+  },
+  "Mail": {
+    "name": "Mail",
+    "url": "/wow/addons/mail"
+  },
+  "Map & Minimap": {
+    "name": "Map & Minimap",
+    "url": "/wow/addons/map-minimap"
+  },
+  "Minigames": {
+    "name": "Minigames",
+    "url": "/wow/addons/minigames"
+  },
+  "Miscellaneous": {
+    "name": "Miscellaneous",
+    "url": "/wow/addons/miscellaneous"
+  },
+  "Plugins": {
+    "name": "Plugins",
+    "url": "/wow/addons/plugins"
+  },
+  "Data Broker": {
+    "name": "Data Broker",
+    "url": "/wow/addons/plugins/data-broker"
+  },
+  "FuBar": {
+    "name": "FuBar",
+    "url": "/wow/addons/plugins/fubar"
+  },
+  "Titan Panel": {
+    "name": "Titan Panel",
+    "url": "/wow/addons/plugins/titan-panel"
+  },
+  "Professions": {
+    "name": "Professions",
+    "url": "/wow/addons/professions"
+  },
+  "Alchemy": {
+    "name": "Alchemy",
+    "url": "/wow/addons/professions/alchemy"
+  },
+  "Archaeology": {
+    "name": "Archaeology",
+    "url": "/wow/addons/professions/archaeology"
+  },
+  "Blacksmithing": {
+    "name": "Blacksmithing",
+    "url": "/wow/addons/professions/blacksmithing"
+  },
+  "Cooking": {
+    "name": "Cooking",
+    "url": "/wow/addons/professions/cooking"
+  },
+  "Enchanting": {
+    "name": "Enchanting",
+    "url": "/wow/addons/professions/enchanting"
+  },
+  "Engineering": {
+    "name": "Engineering",
+    "url": "/wow/addons/professions/engineering"
+  },
+  "First Aid": {
+    "name": "First Aid",
+    "url": "/wow/addons/professions/first-aid"
+  },
+  "Fishing": {
+    "name": "Fishing",
+    "url": "/wow/addons/professions/fishing"
+  },
+  "Herbalism": {
+    "name": "Herbalism",
+    "url": "/wow/addons/professions/herbalism"
+  },
+  "Inscription": {
+    "name": "Inscription",
+    "url": "/wow/addons/professions/inscription"
+  },
+  "Jewelcrafting": {
+    "name": "Jewelcrafting",
+    "url": "/wow/addons/professions/jewelcrafting"
+  },
+  "Leatherworking": {
+    "name": "Leatherworking",
+    "url": "/wow/addons/professions/leatherworking"
+  },
+  "Mining": {
+    "name": "Mining",
+    "url": "/wow/addons/professions/mining"
+  },
+  "Skinning": {
+    "name": "Skinning",
+    "url": "/wow/addons/professions/skinning"
+  },
+  "Tailoring": {
+    "name": "Tailoring",
+    "url": "/wow/addons/professions/tailoring"
+  },
+  "PvP": {
+    "name": "PvP",
+    "url": "/wow/addons/pvp"
+  },
+  "Arena": {
+    "name": "Arena",
+    "url": "/wow/addons/pvp/arena"
+  },
+  "Battleground": {
+    "name": "Battleground",
+    "url": "/wow/addons/pvp/battleground"
+  },
+  "Quests & Leveling": {
+    "name": "Quests & Leveling",
+    "url": "/wow/addons/quests-leveling"
+  },
+  "Roleplay": {
+    "name": "Roleplay",
+    "url": "/wow/addons/roleplay"
+  },
+  "Transmogrification": {
+    "name": "Transmogrification",
+    "url": "/wow/addons/roleplay/transmogrification"
+  },
+  "Tooltip": {
+    "name": "Tooltip",
+    "url": "/wow/addons/tooltip"
+  },
+  "Twitch Integration": {
+    "name": "Twitch Integration",
+    "url": "/wow/addons/twitch-integration"
+  },
+  "Unit Frames": {
+    "name": "Unit Frames",
+    "url": "/wow/addons/unit-frames"
+  },
+  "HUDs": {
+    "name": "HUDs",
+    "url": "/wow/addons/unit-frames/huds"
+  },
+  "Raid Frames": {
+    "name": "Raid Frames",
+    "url": "/wow/addons/unit-frames/raid-frames"
+  }
+}
