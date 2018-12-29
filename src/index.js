@@ -1,5 +1,5 @@
 import parser from './parse'
-import * as http from './utils/http'
+import http from './utils/http'
 import categories from '../res/category.json'
 import _ from 'lodash'
 import {
@@ -29,7 +29,6 @@ async function getAddonsByCategory(category, index, wowVersion, sort) {
   if (!info) {
     return []
   }
-
   const resp = await http.get(CURSE_HOST + categories[category].url,
     _getRequestOption(index, wowVersion, sort))
   const result = parser.parseCursePage(resp)

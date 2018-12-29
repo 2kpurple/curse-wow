@@ -1,10 +1,8 @@
-const Curse = require('../index')
+const curse = require('../index')
+console.log(curse)
 
-const curse = new Curse()
-curse.page(0).then((res) => {
+curse.getAddons().then((res) => {
   console.log(res)
 }).catch((err) => {
   console.log(err)
 })
-
-Curse._buildCategory()

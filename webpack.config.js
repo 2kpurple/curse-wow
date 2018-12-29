@@ -1,6 +1,5 @@
 const webpack = require('webpack')
 const path = require('path')
-const UglifyjsPlugin = require('uglifyjs-webpack-plugin')
 const nodeExternals = require('webpack-node-externals')
 
 module.exports = {
@@ -14,24 +13,22 @@ module.exports = {
     index: path.join(__dirname, 'src', 'index.js')
   },
   output: {
+    library: 'curse-wow',
+    libraryTarget: 'umd',
+    libraryExport: 'default',
     path: path.join(__dirname, 'dist'),
     filename: '[name].js'
   },
   module: {
-    rules: [
-      {
-        test: /\.js$/,
-        loader: 'babel-loader',
-        exclude: path.resolve(__dirname, 'node_modules')
-      }
-    ]
+    rules: [{
+      test: /\.js$/,
+      loader: 'babel-loader',
+      exclude: path.resolve(__dirname, 'node_modules')
+    }]
   },
   plugins: [
     new webpack.DefinePlugin({
-      'process.env.NODE_ENV': JSON.stringify('developmenet')
-    }),
-    new UglifyjsPlugin({
-      sourceMap: true
+      'process.env.NODE_ENV': JSON.stringify('production')
     })
   ]
 }

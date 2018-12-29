@@ -13,6 +13,6 @@ async function get(url, params) {
   }
 }
 
-module.exports = {
+export default {
   get
 }

@@ -1,8 +1,12 @@
 {
   "name": "curse-wow",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "curse wow addons",
   "main": "index.js",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/2kpurple/curse-wow"
+	},
   "scripts": {
     "build": "npm run clean && webpack --config webpack.config.js -p",
     "clean": "rimraf dist"
