@@ -1,6 +1,6 @@
 {
   "name": "curse-wow",
-  "version": "0.0.2",
+  "version": "0.0.2-alpha2",
   "description": "curse wow addons",
   "main": "index.js",
   "repository": {
